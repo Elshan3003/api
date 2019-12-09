@@ -1,0 +1,34 @@
+<world>
+	<continent>
+		<country>
+			<address>
+				<countryName>USA</countryName>
+				<state>Virginia</state>
+				<city>Fairfax</city>
+				<zipCode>22031</zipCode>
+				<street>2700 Dorr ave</street>
+			</address>
+		</country>
+		<country>
+		<address>
+				<countryName>Azerbaijan</countryName>
+				<state>N/A</state>
+				<city>Sheki</city>
+				<zipCode>55555</zipCode>
+				<street>Sabit Arif</street>
+			</address>
+		</country>
+	</continent>
+		
+	<borrower>
+		<firstName>Elshan</firstName>
+		<lastName>Rasulov</lastName>
+		<age>32</age>
+		<DOB>10/12/1980</DOB>
+		<SSN>3334449876</SSN>
+		<income>88.000</income>
+		<monthlyIncome>3300.00</monthlyIncome>
+		<jobTitle>SDET</jobTitle>
+		<company>Cognizant</company>
+	</borrower>
+</world>
